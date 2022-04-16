@@ -26,6 +26,8 @@
 * To decrease the number of IP
   * The computer can not have a modem if it connected to a router wrhich already have one, but the computer must  have a NIC (Network Interface Controller) and this computer will have a local IP from the router.
   * Using dynamic IP (Except Servers -> Static IP). 
- 
+
+* DNS (Domain Name Server): It is the phonebook of the Internet (IP Adress).
+  
  
 
