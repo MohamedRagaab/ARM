@@ -17,6 +17,7 @@
 <img height="300px" src="https://user-images.githubusercontent.com/38363762/163664771-ea8ded89-7990-46e3-90d3-3f1711099c6a.png">
 <hr/>
 </div>
+
   * Local ISP (Internet Service Provider)
 * Modem: It is a hardware component that allows a computer or another device, such as a router or switch, to connect to the Internet and each modem has an IP adress.
   * Wired -> Telephone
