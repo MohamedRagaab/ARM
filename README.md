@@ -8,6 +8,7 @@
 
 
 ### IoT
+The Internet of things describes physical objects with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other.
 #### Networking 
 * The Internet Network: It is a vast network that connects computers all over the world.
 * ICANN: The Internet Corporation for Assigned Names and Numbers is an American multistakeholder group and nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure 
@@ -29,5 +30,8 @@
 
 * DNS (Domain Name Server): It is the phonebook of the Internet (IP Adress).
   
+#### Website Implementation
+* Server (Housting) 
+* Domain 
  
 
